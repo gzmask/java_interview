@@ -1,6 +1,0 @@
-(ns java-interview.core)
-(import my.interview Binary)
-
-(Binary/run)
-
-
